@@ -1,0 +1,19 @@
+{
+  "name": "ws-connection",
+  "version": "1.0.0",
+  "description": "Simple websocket connection in browser with retry.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unimea/ws-connection.git"
+  },
+  "author": "Unimea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Unimea/ws-connection/issues"
+  },
+  "homepage": "https://github.com/Unimea/ws-connection#readme"
+}
