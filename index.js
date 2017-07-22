@@ -59,6 +59,7 @@ function createWS(props, options) {
   };
 }
 
+module.exports = createWS;
 /* Example */
 /*
 var ws = createWS('ws://localhost:9999');
