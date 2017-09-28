@@ -1,6 +1,6 @@
 {
   "name": "connect-ws",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple websocket connection in browser with retry.",
   "main": "index.js",
   "scripts": {
